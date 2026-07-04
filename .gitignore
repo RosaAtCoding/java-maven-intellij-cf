@@ -1,0 +1,24 @@
+# ==========================================
+# Maven (Compilación y dependencias)
+# ==========================================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+build.log
+cobertura.ser
+jacoco.exec
+.lib/
+
+# ==========================================
+# IntelliJ IDEA
+# ==========================================
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
